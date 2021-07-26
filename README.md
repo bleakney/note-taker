@@ -28,5 +28,6 @@
   ### Where to reach me:
   [Email](mailto:bleakneyb@gmail.com)
   
-  ### Google Drive screen recording demo of application:
-  [Demo](https://drive.google.com/file/d/1y2tuhtKt7HORgIw0To-eHzEQa5TGc9n1/view)
+  ### Deployment Link:
+  [Heroku](https://glacial-castle-93668.herokuapp.com/)
+

@@ -2,7 +2,6 @@ const fs = require('fs');
 const path = require('path');
 const express = require('express');
 const { notes } = require('./db/db.json');
-const createNewNote = require('./lib/notes');
 const htmlRoutes = require('./routes/htmlRoutes/htmlRoutes');
 const apiRoutes = require('./routes/apiRoutes/apiRoutes');
 

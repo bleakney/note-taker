@@ -32,11 +32,11 @@ router.post('/notes', (req, res) => {
 router.delete('/notes/:id', (req, res) => {
     const result = deleteNote(req.params.id, notes);
     if(result) {
-        res.json(result);
+        res.json(notes);
     } else {
         res.sendStatus(404);
     }
-})
+});
 
 
 module.exports = router;
